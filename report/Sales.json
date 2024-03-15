@@ -1,0 +1,14 @@
+{
+    "sales_id": "S1",
+    "location": "Chicago",
+    "sales": [
+      {
+        "product_id": "P1",
+        "quantity": 30
+      },
+      {
+        "product_id": "P2",
+        "quantity": 45
+      }
+    ]
+  }

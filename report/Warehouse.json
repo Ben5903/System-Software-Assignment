@@ -1,0 +1,14 @@
+{
+    "warehouse_id": "W1",
+    "location": "London",
+    "items": [
+      {
+        "item_id": "I1",
+        "quantity": 100
+      },
+      {
+        "item_id": "I2",
+        "quantity": 200
+      }
+    ]
+  }

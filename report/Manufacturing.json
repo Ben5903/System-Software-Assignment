@@ -1,0 +1,14 @@
+{
+    "manufacturing_id": "M1",
+    "location": "Los Angeles",
+    "products": [
+      {
+        "product_id": "P1",
+        "quantity": 50
+      },
+      {
+        "product_id": "P2",
+        "quantity": 75
+      }
+    ]
+  }

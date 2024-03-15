@@ -1,0 +1,14 @@
+{
+    "distribution_id": "D1",
+    "location": "Dublin",
+    "distributions": [
+      {
+        "product_id": "P1",
+        "quantity": 20
+      },
+      {
+        "product_id": "P2",
+        "quantity": 35
+      }
+    ]
+  }
